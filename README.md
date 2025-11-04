@@ -67,7 +67,7 @@ This repository contains the code for the central component: the **Vertex AI Mod
 
 ### Project Structure
 
-├── app/
+```├── app/
 │ ├── dengue_risk_model.joblib # The pre-trained AI model
 │ ├── main.py # Flask API server
 │ └── requirements.txt # Python dependencies
@@ -77,7 +77,7 @@ This repository contains the code for the central component: the **Vertex AI Mod
 │
 ├── Dockerfile # Recipe to build the container
 │
-└── Dengue_Prediction_Model.ipynb # Jupyter Notebook for model training & experimentation
+└── Dengue_Prediction_Model.ipynb # Jupyter Notebook for model training & experimentation```
 
 
 ### Local API Setup (Testing)
